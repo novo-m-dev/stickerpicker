@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "test.json"
+  ],
+  "homeserver_url": "https://matrix-kp.ru.tuna.am/"
+}
